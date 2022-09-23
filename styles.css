@@ -22,7 +22,7 @@ h2 {
     color: #5A67D8;
 }
 
-p {
+p.profile {
     font-size: 18px;
     margin-top: 0x;
     margin-bottom: 0px;
@@ -30,6 +30,11 @@ p {
     margin-left: 80px;
     line-height: 1.8;
 
+}
+
+p.copyright {
+    font-size: 18px;
+    text-align: center;
 }
 
 img.profile {
