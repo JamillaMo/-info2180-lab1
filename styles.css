@@ -43,4 +43,6 @@ img.profile {
 .profileImg {
     flex-basis: 50%;
     margin: auto;
+    max-width: 100%;
+    height: auto;
 }
