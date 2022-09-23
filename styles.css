@@ -22,6 +22,15 @@ h2 {
     color: #5A67D8;
 }
 
+p {
+    font-size: 18px;
+    margin-top: 0x;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 80px;
+    line-height: 1.8;
+}
+
 p.profile {
     font-size: 18px;
     margin-top: 0x;
@@ -35,6 +44,11 @@ p.profile {
 p.copyright {
     font-size: 18px;
     text-align: center;
+    margin-top: 0x;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 80px;
+    line-height: 1.8;
 }
 
 img.profile {
