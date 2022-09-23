@@ -31,3 +31,11 @@ p {
     line-height: 1.8;
 
 }
+
+img.profile {
+    width: 250px;
+    margin-left: 80px;
+    border-radius: 50%;
+    float: left;
+    padding-right: 30px;
+}
