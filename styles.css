@@ -39,3 +39,8 @@ img.profile {
     float: left;
     padding-right: 30px;
 }
+
+.profileImg {
+    flex-basis: 50%;
+    margin: auto;
+}
